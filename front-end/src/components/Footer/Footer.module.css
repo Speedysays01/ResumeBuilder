@@ -1,0 +1,28 @@
+.footer {
+    background-color: #4CAF50;
+    color: black;
+    text-align: center;
+    padding: 2rem;
+    font-size: 1rem;
+  }
+  
+  .text {
+    margin: 0;
+    font-size: 1.5rem;
+  }
+  
+  .links {
+    margin-top: 10px;
+  }
+  
+  .link {
+    color: black;
+    margin: 0 10px;
+    text-decoration: none;
+    font-size: 1rem;
+  }
+  
+  .link:hover {
+    text-decoration: underline;
+  }
+  
